@@ -11,7 +11,6 @@ We analyzed data, clean and split it for better algorithm work by following fact
 4.Transactions in which there was a wholesale purchase goods
 (for example сafe owner buy 100 liters of Coca Cola - outliers)
 
-Examples: 
 ![](n_of_goods.png)
 
 
@@ -19,5 +18,5 @@ Examples:
 
 ....
 Graph example:
-![](graph.jpg)
+![](grapth.jpg)
 
