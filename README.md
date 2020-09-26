@@ -1,7 +1,7 @@
 # lenta_hack
+Code and files for skoltech/lenta hackaton sept.2020
 
 # Prepocessing 
-Code and files for skoltech/lenta hackaton sept.2020
 
 We analyzed data, clean and split it for better algorithm work by following factors:
 1. Checks with big amount of different items 
