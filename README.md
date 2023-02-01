@@ -1,4 +1,5 @@
-# lenta_hack
+# Lenta-Hackathon
+
 Code and files for skoltech/lenta hackaton sept.2020
 
 # Prepocessing 
