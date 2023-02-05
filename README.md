@@ -1,6 +1,6 @@
 # Lenta-Hackathon
 
-Code and files for lenta hackaton September 2020
+Code and files for lenta hackaton September 2020.
 
 
 All details you can find in a full [presentation](lenta.pdf). 
