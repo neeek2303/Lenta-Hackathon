@@ -20,7 +20,6 @@ All details you can find in a full [presentation](lenta.pdf).
 
 # PageRank
 
-....
 Graph example:
 ![](grapth.jpg)
 
