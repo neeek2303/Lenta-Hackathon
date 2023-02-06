@@ -23,3 +23,4 @@ All details you can find in a full [presentation](lenta.pdf).
 Graph example:
 ![](grapth.jpg)
 
+
